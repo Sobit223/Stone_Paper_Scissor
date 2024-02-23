@@ -1,0 +1,52 @@
+.game{
+    background-color: antiquewhite;
+    text-align: center;
+    
+}
+
+
+.images{
+    background-color: aqua;
+}
+
+
+#img{
+    margin-top: 10rem;
+    height: 20rem;
+    width: 20rem;
+}
+
+.start{
+    margin-top: 2rem;
+    height: 5rem;
+    width: 10rem;
+    border: solid red 10px;
+    font-size: 1rem;
+    border-radius: 20px;
+}
+
+.paper:hover{
+    zoom: 1.1;
+}
+.scissor:hover{
+    zoom: 1.1;
+}
+.stone:hover{
+    zoom: 1.1;
+}
+
+.sentence{
+    height: 5rem;
+    width: 100%;
+    background-color: azure;
+}
+
+.you{
+    position:absolute;
+    left: 35rem;
+}
+
+.Opponent{
+    position: absolute;
+    left: 70rem;
+}
